@@ -1,0 +1,104 @@
+Size: 500
+Regular algorithm
+Time 1623
+6 blocks algorithm
+Block/Tile size 32
+Time 1759
+Block/Tile size 64
+Time 1716
+Block/Tile size 128
+Time 1716
+Block/Tile size 256
+Time 1820
+Block/Tile size 500
+Time 1925
+Size: 1000
+Regular algorithm
+Time 14936
+6 blocks algorithm
+Block/Tile size 32
+Time 14060
+Block/Tile size 64
+Time 13999
+Block/Tile size 128
+Time 14272
+Block/Tile size 256
+Time 14400
+Block/Tile size 512
+Time 15670
+Size: 2000
+Regular algorithm
+Time 142868
+6 blocks algorithm
+Block/Tile size 32
+Time 113339
+Block/Tile size 64
+Time 113579
+Block/Tile size 128
+Time 115050
+Block/Tile size 256
+Time 116040
+Block/Tile size 512
+Time 125594
+Size: 2500
+Regular algorithm
+Time 288153
+6 blocks algorithm
+Block/Tile size 32
+Time 220495
+Block/Tile size 64
+Time 220948
+Block/Tile size 128
+Time 222993
+Block/Tile size 256
+Time 226160
+Block/Tile size 512
+Time 245802
+Size: 3500
+Regular algorithm
+Time 774191
+6 blocks algorithm
+Block/Tile size 32
+Time 605901
+Block/Tile size 64
+Time 607026
+Block/Tile size 128
+Time 620582
+Block/Tile size 256
+Time 615092
+Block/Tile size 512
+Time 667663
+Size: 5000
+Regular algorithm
+Time 2393242
+6 blocks algorithm
+Block/Tile size 32
+Time 1762160
+Block/Tile size 64
+Time 1761495
+Block/Tile size 128
+Time 1781695
+Block/Tile size 256
+Time 1806388
+Block/Tile size 512
+Time 1963247
+Size: 7500
+Regular algorithm
+Time 8291602
+6 blocks algorithm
+Block/Tile size 32
+Time 5926033
+Block/Tile size 64
+Time 5924246
+Block/Tile size 128
+Time 5964619
+Block/Tile size 256
+Time 6117698
+Block/Tile size 512
+Time 6542764
+Size: 10000
+Regular algorithm
+Time 22207081
+6 blocks algorithm
+Block/Tile size 32
+

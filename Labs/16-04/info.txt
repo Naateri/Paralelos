@@ -1,0 +1,6 @@
+mat = 500x500, block=128: cachegrind.out.22157
+mat = 1000x1000, block=128: cachegrind.out.22104 
+mat = 2000x2000, block=128: cachegrind.out.22184
+mat = 2500x2500, block=128: cachegrind.out.22249
+mat = 3500x3500, block=128: cachegrind.out.22370
+
