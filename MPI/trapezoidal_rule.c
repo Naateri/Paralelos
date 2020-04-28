@@ -57,6 +57,9 @@ int main(int argc, char *argv[]) {
 	printf("Process %d\nleft value = %f, right value = %f\n", my_rank, local_a, local_b);
 	printf("User: %s\n", name);
 	
+	printf("IP address:\n");
+	system("hostname -I");
+	
 	printf("Value by process %d is %f\n", my_rank, local_int);
 	
 	if (my_rank != 0){
