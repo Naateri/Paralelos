@@ -71,7 +71,7 @@ int main(int argc, char* argv[]) {
    
    int size;
    
-   for(int i = 0; i < 6; i++){
+   for(int i = 0; i < 7; i++){
 	   size = keys[i];
 	   
 	   Get_args(size, &global_n, &local_n, &g_i, my_rank, p, comm);

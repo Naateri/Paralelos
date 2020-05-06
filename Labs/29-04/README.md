@@ -1,7 +1,7 @@
 # Tarea - Multiplicación Matriz-Vector y Ordenamiento Paralelo
 
 Tarea del curso Computación Paralela y Distribuida - UCSP 2020-1
-Códigos basados de las implementaciones de [Peter Pacheco](https://cs.usfca.edu/~peter/ipp/)
+Códigos basados de las implementaciones de [Peter Pacheco](https://www.cs.usfca.edu/~peter/ipp/)
 
 Se debe instalar libopenmpi-dev para poder correr los programas.
 
