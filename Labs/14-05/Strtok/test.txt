@@ -1,0 +1,4 @@
+Hello Simple Something World!
+This is a test file
+Objective: show that
+strtok != thread safe
