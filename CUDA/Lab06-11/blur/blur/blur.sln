@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "blur", "blur\blur.vcxproj", "{E7B1CC1B-9E32-4602-A8ED-BB4F9A260F5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7B1CC1B-9E32-4602-A8ED-BB4F9A260F5F}.Debug|x64.ActiveCfg = Debug|x64
+		{E7B1CC1B-9E32-4602-A8ED-BB4F9A260F5F}.Debug|x64.Build.0 = Debug|x64
+		{E7B1CC1B-9E32-4602-A8ED-BB4F9A260F5F}.Release|x64.ActiveCfg = Release|x64
+		{E7B1CC1B-9E32-4602-A8ED-BB4F9A260F5F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {884C81F4-141A-4A80-A71D-D8EA1233B7CF}
+	EndGlobalSection
+EndGlobal

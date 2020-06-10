@@ -130,7 +130,7 @@ void colorToGreyscale(const char* filename) {
 int main()
 {
 
-    colorToGreyscale("test.bmp");
+    colorToGreyscale("4pics.bmp");
 
     return 0;
 }
