@@ -21,12 +21,11 @@ __global__ void colorToGreyscaleConversion(unsigned char* Pout, unsigned char* P
         // one can think of the RGB image having
         // CHANNEL times columns than the grayscale image
         int rgbOffset = greyOffset * CHANNELS;
-        unsigned char b = Pin[rgbOffset]; // red value for pixel
+        unsigned char b = Pin[rgbOffset]; // blue value for pixel
         unsigned char g = Pin[rgbOffset + 1]; // green value for pixel
-        unsigned char r = Pin[rgbOffset + 2]; // blue value for pixel
+        unsigned char r = Pin[rgbOffset + 2]; // red value for pixel
         // perform the rescaling and store it
         // We multiply by floating point constants
-        //Pout[greyOffset] = 0.21f * r + 0.71f * g + 0.07f * b;
         unsigned char conversion = 0.21f * r + 0.71f * g + 0.07f * b;
         Pout[rgbOffset] = conversion;
         Pout[rgbOffset + 1] = conversion;
